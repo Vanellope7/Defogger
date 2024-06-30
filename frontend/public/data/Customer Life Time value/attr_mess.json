@@ -1,0 +1,13 @@
+{
+  "gender": "Gender of the customer",
+  "area": "Area of the customer",
+  "qualification": "Highest Qualification of the customer",
+  "income": "Income earned in a year (in rupees)",
+  "marital_status": "Marital Status of the customer {0:Single, 1: Married}",
+  "vintage": "No. of years since the first policy date",
+  "claim_amount": "Total Amount Claimed by the customer (in rupees)",
+  "num_policies": "Total no. of policies issued by the customer",
+  "policy": "Active policy of the customer",
+  "type_of_policy": "Type of active policy",
+  "cltv": "Customer lifetime value"
+}

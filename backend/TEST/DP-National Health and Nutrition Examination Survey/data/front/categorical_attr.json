@@ -1,0 +1,19 @@
+{
+    "HEQ010": ["Y", "N", "idk"],
+    "HEQ030": ["Y", "N", "idk"],
+    "HUQ020": ["Better", "Worse", "About the same?", "idk"],
+    "HUQ030": ["Y", "There is no place", "There is more than one place"],
+    "HUQ051": ["None", "1", "2-3", "4-5", "6-7", "8-9", "10-12", "13-15", "16+", "Dont know"],
+    "HUQ071": ["Y", "N", "idk"],
+    "HUQ090": ["Y", "N", "Refused", "idk"],
+    "PHQ020": ["Y", "N"],
+    "PHQ040": ["Y", "N"],
+    "PHQ050": ["Y", "N"],
+    "PHQ060": ["Y", "N"],
+    "BPXPULS": ["Regular", "Irregular"],
+    "DMDHHSIZ": ["1", "2", "3", "4", "5", "6", "7+"],
+    "DMDHHSZA": ["0", "1", "2", "3+"],
+    "DMDHHSZB": ["0", "1", "2", "3", "4+"],
+    "DMDHHSZE": ["0", "1", "2", "3+"],
+    "DMDHRGND": ["Male", "Female"]
+}

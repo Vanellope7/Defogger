@@ -1,0 +1,20 @@
+{
+    "hepatitis_B": ["Y", "N", "idk"],
+    "hepatitis_C": ["Y", "N", "idk"],
+    "health_state": ["Better", "Worse", "About the same?", "idk"],
+    "healthcare_times": ["None", "1", "2-3", "4-5", "6-7", "8-9", "10-12", "13-15", "16+", "Dont know"],
+    "overnight_hospital": ["Y", "N", "idk"],
+    "mental_healthcare": ["Y", "N", "Refused", "idk"],
+
+    "coffee_sugar": ["Y", "N"],
+    "gum": ["Y", "N"],
+    "antacids": ["Y", "N"],
+    "dietary_supp": ["Y", "N"],
+
+    "pulse_regular": ["Regular", "Irregular"],
+    "family_c": ["1", "2", "3", "4", "5", "6", "7+"],
+    "children_c": ["0", "1", "2", "3+"],
+    "teenager_c": ["0", "1", "2", "3", "4+"],
+    "elder_c": ["0", "1", "2", "3+"],
+    "gender": ["Male", "Female"]
+}

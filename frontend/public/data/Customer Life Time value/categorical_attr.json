@@ -1,0 +1,10 @@
+{
+    "gender": ["Female", "Male"],
+    "area": ["Rural", "Urban"],
+    "qualification": ["Others", "High School", "Bachelor"],
+    "income": ["<=2", "2-5", "5-10", ">=10"],
+    "marital_status": [0, 1],
+    "num_policies": [1, "More than 1"],
+    "policy": ["A", "B", "C"],
+    "type_of_policy": ["Silver", "Gold", "Platinum"]
+}

@@ -1,0 +1,22 @@
+.DS_Store
+
+
+
+# local env files
+.env.local
+.env.*.local
+
+# Log files
+
+test.py
+
+# Editor directories and files
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.pyc
+*.sw?
+*.cache.json

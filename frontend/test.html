@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>凸包绘制</title>
+  <style>
+      .hull {
+          fill: none;
+          stroke: black;
+      }
+  </style>
+</head>
+<body>
+<script src="https://d3js.org/d3.v7.min.js"></script>
+<script>
+  // 定义点的数据
+  var points = [[1,2], [3,4], [5,6], [7,8], [9,10]];
+
+  // 创建SVG画布
+  var width = 500, height = 500;
+  var svg = d3.select("body")
+      .append("svg")
+      .attr("width", width)
+      .attr("height", height);
+
+  // 计算凸包
+  var hull = d3.polygonHull(points);
+
+  // 绘制凸包
+  var hullPath = hull()();
+  svg.append("path")
+      .attr("class", "hull")
+      .attr("d", hullPath)
+      .attr("transform", "translate(" + (width / 2) + "," + (height / 2) + ")");
+</script>
+</body>
+</html>

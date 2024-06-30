@@ -1,0 +1,4 @@
+﻿attribute,min,max,granularity
+claim_amount,0,40000,5000
+cltv,0,800000,100000
+vintage,0,8,1

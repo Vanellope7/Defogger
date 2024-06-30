@@ -1,0 +1,10 @@
+﻿attribute,min,max,granularity
+housing_cost,0,70000,5000
+food_cost,0,40000,5000
+transportation_cost,0,20000,5000
+healthcare_cost,0,40000,5000
+other_necessities_cost,0,30000,5000
+childcare_cost,0,50000,5000
+taxes,0,50000,5000
+total_cost,0,230000,10000
+median_family_income,0,180000,10000

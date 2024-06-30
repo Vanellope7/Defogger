@@ -1,0 +1,22 @@
+{
+  "hepatitis_B": "Has a doctor or other health professional ever told {you/SP} that {you have/s/he/SP has} Hepatitis B? ",
+  "hepatitis_C": "Has a doctor or other health professional ever told {you/SP} that {you have/s/he/SP has} Hepatitis C?",
+  "overnight_hospital": "{During the past 12 months, were you/{was} SP} a patient in a hospital overnight? Do not include an overnight stay in the emergency room.",
+  "mental_healthcare": "During the past 12 months, that is since {DISPLAY CURRENT MONTH} of {DISPLAY LAST YEAR}, {have you/has SP} seen or talked to a mental health professional such as a psychologist, psychiatrist, psychiatric nurse or clinical social worker about {your/his/her} health?",
+  "health_state": "Compared with 12 months ago, would you say {your/SP's} health is now . . .",
+  "healthcare_times": "{During the past 12 months, how/How} many times {have you/has SP} seen a doctor or other health care professional about {your/his/her} health at a doctor's office, a clinic or some other place? Do not include times {you were/s/he was} hospitalized overnight, visits to hospital emergency rooms, home visits or telephone calls.",
+
+  "coffee_sugar": "Coffee or tea with cream or sugar? [Include milk or non-dairy creamers.]",
+  "gum": "Gum, breath mints, lozenges or cough drops, or other cough or cold remedies?",
+  "antacids": "Antacids, laxatives, or anti-diarrheals?",
+  "dietary_supp": "Dietary supplements such as vitamins and minerals? [Include multivitamins and single nutrient supplements.]",
+
+  "weight": "weight",
+  "pulse_regular": "Pulse regular or irregular?",
+
+  "family_count": "Total number of people in the Household",
+  "children_count": "Number of children aged 5 years or younger in the household",
+  "teenager_count": "Number of children aged 6-17 years old in the household",
+  "elder_count": "Number of adults aged 60 years or older in the household",
+  "gender": "HH reference person's gender"
+}
